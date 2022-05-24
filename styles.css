@@ -1,3 +1,6 @@
+body{
+    position: relative;
+}
 .main{
     position: absolute;
     top: 100px;
@@ -25,4 +28,34 @@
 }
 .text{
     font-size: 18px;
+}
+.gullis-hous{
+    position: absolute;
+    top: 380px;
+    width: 100px;
+    height: 200px;
+    background-color: #84CEF9;
+    position: relative;
+}
+.windows{
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    top: 30px;
+    left: 10px;
+}
+.window{
+    width: 20px;
+    height: 30px;
+    background-color: aqua;
+    border: 1px solid brown;
+}
+.door{
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+    width: 45px;
+    height: 65px;
+    background-color: brown;
 }
