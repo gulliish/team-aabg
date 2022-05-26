@@ -63,6 +63,31 @@
         height: 65px;
         background-color: brown;
     } 
+    .aigerim-house {
+        position: absolute;
+        width: 100px;
+        height: 230px;
+        margin-left: 150px;
+        margin-top: 20%;
+        background-color: #84F9C1;
+    }
+    
+    .windowes-item {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+        margin-left: 38px;
+        width: 25px;
+        height: 25px;
+        background-color: rgb(163, 236, 163);
+    }
+    .door-item {
+        width: 40px;
+        height: 60px;
+        margin-left: 30px;
+        margin-top: 30px;
+        background-color: aqua;
+    } 
     .amina-hous{
         background-color: #FFECBB;
         position: absolute;
@@ -71,28 +96,4 @@
         width: 100px;
         height: 200px;
         position: relative;
-.aigerim-house {
-  position: absolute;
-  width: 100px;
-  height: 230px;
-  margin-left: 150px;
-  margin-top: 20%;
-  background-color: #84F9C1;
-}
-
-.windowes-item {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 10px;
-  margin-left: 38px;
-  width: 25px;
-  height: 25px;
-  background-color: rgb(163, 236, 163);
-}
-.door-item {
-  width: 40px;
-  height: 60px;
-  margin-left: 30px;
-  margin-top: 30px;
-  background-color: aqua;
-}
+        }
