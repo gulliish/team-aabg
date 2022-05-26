@@ -30,12 +30,6 @@
         display: inline;
         background-color: #84F9C1;
     }
-    .begimai{
-        width: 25px;
-        height: 25px;
-        display: inline;
-        background-color: #E7C1F9;
-    }
     .text{
         font-size: 18px;
     }
@@ -75,7 +69,7 @@
   height: 230px;
   margin-left: 150px;
   margin-top: 20%;
-  background-color: green;
+  background-color: #84F9C1;
 }
 
 .windowes-item {
@@ -93,5 +87,5 @@
   height: 60px;
   margin-left: 30px;
   margin-top: 30px;
-  background-color: aquamarine;
+  background-color: aqua;
 }
